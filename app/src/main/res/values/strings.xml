@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FingerPrintAuthentication</string>
+
+    <string name="instructions1">Tap on the icon above to enable fingerprint sensor</string>
+    <string name="instructions2">Now place your finger print on the sensor to authenticate</string>
+</resources>
